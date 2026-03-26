@@ -54,8 +54,6 @@ Feature selection
 Model training
 Prediction
 
-(You can update this section later with the exact model you used, e.g., Logistic Regression, Random Forest, etc.)
-
 🛠️ Tools & Libraries
 Python
 Pandas
